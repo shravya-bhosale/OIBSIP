@@ -1,7 +1,7 @@
 # OIBSIP
 Oasis Infobyte Internship Projects
 
-# Completed Tasks
+# Completed Projects
  Task 1: Voice Assistant
  
  Task 2: BMI Calculator 
